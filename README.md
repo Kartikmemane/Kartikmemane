@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **memanekartik@gmail.com**
 - 💬 **Ask me about:** Python, SQL, MySQL, Pandas, NumPy, Data Cleaning, Data Visualization,Machine                        Learning, and NLP.
 - 📫 **How to reach me:** memanekartik@gmail.com
 - 🧹 Experienced in: Data Cleaning, Data Preprocessing & Exploratory Data Analysis (EDA).
-- 💼 Looking for: Data Analyst Job & Internship opportunities
+- 💼 Looking for: Data Analyst Job & Internship opportunities.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kartik Memane) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kartik Memane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:memanekartik@gmail.com) 
 
