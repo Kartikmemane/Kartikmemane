@@ -1,9 +1,10 @@
 # 💫 Hi 👋, I'm Kartik Memane
 📊 Aspiring Data Analyst | Python | SQL | MySQL | Machine Learning | Data Visualization | NLP
+
 Email Me 👉 ✉️ **memanekartik@gmail.com**
 
 - 🔭 **I’m currently working on:** Data Analysis and Machine Learning projects using Python and SQL.
-- 🌱 **I’m currently learning:** Advanced Machine Learning for Data Analytics.
+- 🌱 **I’m currently learning:** Advanced Machine Learning.
 - 💬 **Ask me about:** Python, SQL, MySQL, Pandas, NumPy, Data Cleaning, Data Visualization,Machine                        Learning, and NLP.
 - 📫 **How to reach me:** memanekartik@gmail.com
 - 🧹 Experienced in: Data Cleaning, Data Preprocessing & Exploratory Data Analysis (EDA).
